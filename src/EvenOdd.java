@@ -9,7 +9,7 @@ public class EvenOdd {
 		
 		//todo: The program takes a number as input.
 		//It then goes through all integer values till reaching that value and prints all the odd ones.
-		
+	
 	}
 	
 }
